@@ -1,0 +1,4 @@
+Error Occured:	[ 2022-06-29 11:26:11 ]
+Error Info: 	[ Thread is running or terminated; it cannot restart. in Line:  414
+   at XC_GameManager.Worker.reloadGameThread() in D:\vsproject-finish\XC_GameManager\XC_GameManager\Worker. ]
+
